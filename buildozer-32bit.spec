@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Mortgage_Calculator
+title = Mortgage Calculator
 
 # (str) Package name
 package.name = mortgagecalculator
